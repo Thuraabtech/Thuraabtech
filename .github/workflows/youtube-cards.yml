@@ -12,8 +12,8 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          playlist_id: YOUR_PLAYLIST_ID  # Create playlist without shorts
-          max_videos: 3
+          playlist_id: "PLHMEWb4q_d9S514k4FDKlfRW6cS-eFtkX"  # Create playlist without shorts
+          max_videos: 4
           card_width: 280
           border_radius: 8
           background_color: "#161b22"
