@@ -33,7 +33,7 @@ I teach Machine Learning and Data Science basics on YouTube.
 ## 📊 GitHub Stats & Trophies
 
 <<<<<<< HEAD
-![Metrics](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/main/github-metrics.svg)
 
 =======
 <p align="center">
