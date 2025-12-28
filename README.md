@@ -11,10 +11,12 @@ I am Builder, Contributor and Content Creator.
 - 3k+ lines of code.
 - Top 10 contributor to UTCP [UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
 
-## Content Creator
-- I Teach Machine Learning and Data Science Basics on Youtube.
-  [![Machine Learning Tutorial](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
+## Content Creator
+I teach Machine Learning and Data Science basics on YouTube.
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
 <!--
 **Thuraabtech/Thuraabtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
