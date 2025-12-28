@@ -41,6 +41,9 @@ I teach Machine Learning and Data Science basics on YouTube.
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ThuraabTech&theme=radical&radius=10" alt="ThuraabTech's Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thuraabtech&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThuraabTech/ThuraabTech/output/pacman-contribution-graph-dark.svg">
@@ -55,9 +58,3 @@ I teach Machine Learning and Data Science basics on YouTube.
   <a href="https://www.linkedin.com/in/salman-thuraab-8a5879157/">LinkedIn</a> • 
   <a href="mailto:salmanthuraabz@gmail.com">Email</a>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/output/pacman-contribution-graph.svg">
-  <img alt="Pacman eating contributions" src="https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/output/pacman-contribution-graph-dark.svg">
-</picture>
