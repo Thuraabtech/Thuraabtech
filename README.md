@@ -33,8 +33,8 @@ I teach Machine Learning and Data Science basics on YouTube.
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/Thuraabtech?achievement=pull-shark">
-    <img src="https://github.com/Thuraabtech/Thuraabtech/blob/main/.github/achievements.png" alt="achievements" width="800"/>
+  <a href="https://github.com/Thuraabtech?tab=achievements">
+    <img src="https://github-profile-achievements.vercel.app/api?username=Thuraabtech&theme=radical&column=7" alt="GitHub Achievements" />
   </a>
 </p>
 <p align="center">
