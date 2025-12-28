@@ -57,7 +57,7 @@ I teach Machine Learning and Data Science basics on YouTube.
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/output/pacman-contribution-graph.svg">
+  <img alt="Pacman eating contributions" src="https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/output/pacman-contribution-graph-dark.svg">
 </picture>
