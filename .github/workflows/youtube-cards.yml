@@ -12,11 +12,13 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          playlist_id: "PLHMEWb4q_d9S514k4FDKlfRW6cS-eFtkX"  # Create playlist without shorts
-          max_videos: 4
-          card_width: 280
+          playlist_id: "PLHMEWb4q_d9S514k4FDKlfRW6cS-eFtkX"
+          max_videos: 6
+          card_width: 240
           border_radius: 8
-          background_color: "#161b22"
-          title_color: "#58a6ff"
-          stats_color: "#8b949e"
+          background_color: "#0d1117"
+          title_color: "#ffffff"
+          stats_color: "#dedede"
+          theme_context_light: '{"background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a"}'
+          theme_context_dark: '{"background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede"}'
           max_title_lines: 1
