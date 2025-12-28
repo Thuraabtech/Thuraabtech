@@ -1,7 +1,6 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every hour, on the hour
     - cron: "0 * * * *"
   workflow_dispatch:
 
@@ -13,7 +12,11 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: "UCGpE3G_wjlPXY9nivnz_2uQ"
-          max_videos: 4
-          card_width: 250
-          max_title_lines: 2
+          playlist_id: YOUR_PLAYLIST_ID  # Create playlist without shorts
+          max_videos: 3
+          card_width: 280
+          border_radius: 8
+          background_color: "#161b22"
+          title_color: "#58a6ff"
+          stats_color: "#8b949e"
+          max_title_lines: 1
