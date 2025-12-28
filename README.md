@@ -1,18 +1,24 @@
-## Hi Curious Developer 👋 I'm Salman
-I am Builder, Contributor and Content Creator.
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm Salman</h1>
 
-## Builder
+<p align="center">I am Builder, Contributor and Content Creator.</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=ThuraabTech">
+    <img src="https://komarev.com/ghpvc/?username=ThuraabTech&label=Profile%20views&color=00FFFF&style=flat-square" alt="Profile views" />
+  </a>
+</p>
+
+## 🚀 Builder
 - Solo developed Shuttle app using Expo + React for my University.
-- Developed youtube productivity tool extension "QuickLearn+AI" [QuickLearn+AI](https://chromewebstore.google.com/detail/quicklearn+-ai/glhlbncljlfbgldcafibnhagpojbobec)
-- Developed Ielts essay prep AI tutor "Ieltssay". Helps boost your Ielts score. [Ieltssay](https://ieltssay-ai.com/)
+- Developed youtube productivity tool extension "QuickLearn+AI" → [Chrome Store](https://chromewebstore.google.com/detail/quicklearn+-ai/glhlbncljlfbgldcafibnhagpojbobec)
+- Developed Ielts essay prep AI tutor "Ieltssay". Helps boost your Ielts score → [Ieltssay](https://ieltssay-ai.com/)
 
-## Contributor
+## 🤝 Contributor
 - Massively contributed to implement Socket, Embedded search, GraphQl plugins and gRPC gnmi protocol in Universal Tool Calling Protocol Python SDK. 
 - 3k+ lines of code.
-- Top 10 contributor to UTCP [UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
+- Top 10 contributor to [UTCP](https://github.com/universal-tool-calling-protocol/python-utcp)
 
-
-## Content Creator
+## 🎥 Content Creator
 I teach Machine Learning and Data Science basics on YouTube.
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -21,17 +27,32 @@ I teach Machine Learning and Data Science basics on YouTube.
 [![ML PART-3 SIMPLE LINEAR REGRESSION,PANDAS,NUMPY,PREDICTING VALUE,TRAINING DATA#ai #video #ml #viral](https://ytcards.demolab.com/?id=sZGrsmtijB0&title=ML+PART-3+SIMPLE+LINEAR+REGRESSION%2CPANDAS%2CNUMPY%2CPREDICTING+VALUE%2CTRAINING+DATA%23ai+%23video+%23ml+%23viral&lang=en&timestamp=1682433337&background_color=%23161b22&title_color=%2358a6ff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "ML PART-3 SIMPLE LINEAR REGRESSION,PANDAS,NUMPY,PREDICTING VALUE,TRAINING DATA#ai #video #ml #viral")](https://www.youtube.com/watch?v=sZGrsmtijB0)
 [![ML PART-4 MULTIPLE LINEAR REGRESSION,ONEHOTENCODING , HANDLING MISSING DATA #ai #video #ml #viral](https://ytcards.demolab.com/?id=e6owHCxRfGs&title=ML+PART-4+MULTIPLE+LINEAR+REGRESSION%2CONEHOTENCODING+%2C+HANDLING+MISSING+DATA+%23ai+%23video+%23ml+%23viral&lang=en&timestamp=1684089010&background_color=%23161b22&title_color=%2358a6ff&stats_color=%238b949e&max_title_lines=1&width=280&border_radius=8 "ML PART-4 MULTIPLE LINEAR REGRESSION,ONEHOTENCODING , HANDLING MISSING DATA #ai #video #ml #viral")](https://www.youtube.com/watch?v=e6owHCxRfGs)
 <!-- END YOUTUBE-CARDS -->
-<!--
-**Thuraabtech/Thuraabtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThuraabTech&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=ThuraabTech&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuraabTech&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ThuraabTech&theme=radical&radius=10" alt="Activity Graph" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThuraabTech/ThuraabTech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThuraabTech/ThuraabTech/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/ThuraabTech/ThuraabTech/output/pacman-contribution-graph-dark.svg">
+</picture>
+
+---
+
+<p align="center">
+  <strong>📫 Connect:</strong> 
+  <a href="https://www.linkedin.com/in/salman-thuraab-8a5879157/">LinkedIn</a> • 
+  <a href="mailto:salmanthuraabz@gmail.com">Email</a>
+</p>
