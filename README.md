@@ -32,6 +32,7 @@ I teach Machine Learning and Data Science basics on YouTube.
 
 ## 📊 GitHub Stats & Trophies
 
+![Metrics](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/github-metrics.svg)
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ThuraabTech&theme=radical&radius=10" alt="ThuraabTech's Activity Graph" />
