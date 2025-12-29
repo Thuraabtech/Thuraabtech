@@ -37,7 +37,6 @@ I teach Machine Learning and Data Science basics on YouTube.
     <img src="https://github-profile-achievements.vercel.app/api?username=Thuraabtech&theme=radical&column=7" alt="GitHub Achievements" />
   </a>
 </p>
->>>>>>> 478a3679488cff4d1856095882a5253cbbc75199
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=ThuraabTech&theme=radical&radius=10" alt="ThuraabTech's Activity Graph" />
 </p>
