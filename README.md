@@ -32,10 +32,6 @@ I teach Machine Learning and Data Science basics on YouTube.
 
 ## 📊 GitHub Stats & Trophies
 
-<<<<<<< HEAD
-![Metrics](https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/main/github-metrics.svg)
-
-=======
 <p align="center">
   <a href="https://github.com/Thuraabtech?tab=achievements">
     <img src="https://github-profile-achievements.vercel.app/api?username=Thuraabtech&theme=radical&column=7" alt="GitHub Achievements" />
@@ -56,6 +52,7 @@ I teach Machine Learning and Data Science basics on YouTube.
 </picture>
 
 ---
+![Metrics](https://raw.githubusercontent.com/Thuraabtech/Thuraabtech/main/github-metrics.svg)
 
 <p align="center">
   <strong>📫 Connect:</strong> 
